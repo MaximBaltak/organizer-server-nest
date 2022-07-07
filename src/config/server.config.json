@@ -1,0 +1,10 @@
+{
+  "SMTP_CONNECT": {
+    "HOST": "smtp.mail.ru",
+    "PORT": 465,
+    "LOGIN": "maksim.baltak1998@mail.ru",
+    "PASSWORD": "fxWVTdMTU5wG1qaVsuh8",
+    "SECURE": true
+  },
+  "SECRET_KEY": "4lkj7lolk45kihqw021k"
+}
